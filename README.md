@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação web para realizar o sorteio de amigos secretos. Os usuários podem adicionar nomes à lista, sorteá-los e visualizar o nome do amigo secreto sorteado. A aplicação garante que não haja repetição de nomes no sorteio e informa quando todos os nomes foram sorteados.
 
+Acesse o projeto online clicando no link abaixo:
+
+🔗 [Jogar Agora](https://sorteio-amigo-secreto-eight.vercel.app/)
+
 ## :sparkles: Funcionalidades
 
 - **Adicionar nomes**: Permite que o usuário adicione os nomes à lista para serem sorteados.
